@@ -653,7 +653,7 @@ export default function GPIProposalApp() {
         </div>
       </section>
 
-      <section className="mx-auto max-w-7xl px-5 py-14">
+      <section id="journey" className="mx-auto max-w-7xl px-5 py-14 scroll-mt-16">
         <SectionTitle
           eyebrow="Dummy Farmer Journey"
           title="How the workflow will actually work on ground."
@@ -725,7 +725,7 @@ export default function GPIProposalApp() {
         </div>
       </section>
 
-      <section className="mx-auto max-w-7xl px-5 py-14">
+      <section id="workflow" className="mx-auto max-w-7xl px-5 py-14 scroll-mt-16">
         <SectionTitle
           eyebrow="Operational Workflow"
           title="Every action becomes a verified digital event."
@@ -788,7 +788,7 @@ export default function GPIProposalApp() {
         </div>
       </section>
 
-      <section className="mx-auto max-w-7xl px-5 py-14">
+      <section id="dashboard" className="mx-auto max-w-7xl px-5 py-14 scroll-mt-16">
         <SectionTitle
           eyebrow="CEO Dashboard"
           title="Live management view for decisions."
