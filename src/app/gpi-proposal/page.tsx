@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useMemo, useState } from "react";
-import { Building2, Database, Fingerprint, Languages, MapPinned, PackageCheck, PhoneCall, Sprout, Truck, UserCheck, WalletCards, WifiOff } from "lucide-react";
+import { Banknote, Building2, Database, Fingerprint, Languages, MapPinned, PackageCheck, PhoneCall, Sprout, Truck, UserCheck, WalletCards, WifiOff } from "lucide-react";
 import {
   Area,
   AreaChart,
